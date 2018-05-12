@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38592'
     url: http://www.gutenberg.org/2009/agents/38592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37009#Butterflies-Worth-Knowing
 gutenberg_bookshelf:
 - Animals-Wild-Insects
 - Animal
